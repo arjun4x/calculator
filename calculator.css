@@ -1,0 +1,47 @@
+.main-body{
+    width:400px;
+    height:600px;
+    background: lightgrey;
+    margin-left:450px;
+    border-color: blue;
+}
+
+.screen
+{
+    width: 300px;
+    height: 50px;
+    background : white;
+    margin-top : 10px;
+ 
+
+    margin-left: 55px;
+    pointer-events: none;
+    
+}
+.input-screen{
+
+ width: 300px;
+    height: 50px;
+    background : white;
+}
+.button{
+    margin-top:10px;
+    margin-left:46px;
+    border-color: rgb(15, 11, 240);
+    box-shadow: black;
+}
+#screen-input{
+    width: 300px;
+    height: 50px;
+    background : white;
+    pointer-events: none;
+    
+}
+.btn{
+    margin-left: 30px;
+    width: 40px;
+    height: 39px;
+    background: white;
+
+
+}
